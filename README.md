@@ -39,7 +39,7 @@ cd Interactive-catalog
 
 ### Run the project
 
-Open index.html in your browser.
+Open `index.html` in your browser.
 
 For development, you can also use Live Server in Visual Studio Code.
 
